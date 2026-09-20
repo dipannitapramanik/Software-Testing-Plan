@@ -1,4 +1,4 @@
-# MediBook: Online Doctor Appointment System TESTING PLAN
+# MediBook: Online Doctor Appointment System Web application TESTING PLAN
 
 MediBook is a centralized, web-based appointment management system designed to simplify the scheduling process between patients and healthcare providers. The platform reduces manual booking difficulties by allowing users to discover doctor availability, book and reschedule appointments, manage prescriptions, and receive appointment reminders.
 
